@@ -1,0 +1,8 @@
+D:\D-Drive\Study\ProductApp\ProductApp.Core\bin\Debug\ProductApp.Core.dll
+D:\D-Drive\Study\ProductApp\ProductApp.Core\bin\Debug\ProductApp.Core.pdb
+D:\D-Drive\Study\ProductApp\ProductApp.Core\obj\Debug\ProductApp.Core.dll
+D:\D-Drive\Study\ProductApp\ProductApp.Core\obj\Debug\ProductApp.Core.pdb
+C:\Users\rsrinivasa\Desktop\ProductApp\ProductApp.Core\bin\Debug\ProductApp.Core.dll
+C:\Users\rsrinivasa\Desktop\ProductApp\ProductApp.Core\bin\Debug\ProductApp.Core.pdb
+C:\Users\rsrinivasa\Desktop\ProductApp\ProductApp.Core\obj\Debug\ProductApp.Core.dll
+C:\Users\rsrinivasa\Desktop\ProductApp\ProductApp.Core\obj\Debug\ProductApp.Core.pdb
